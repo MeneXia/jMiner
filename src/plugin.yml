@@ -1,0 +1,12 @@
+name: bLoan
+main: bloan.plugin.bLoan
+version: Alpha 1
+author: ThatBox
+depend: [Vault]
+commands:
+  loan:
+    description: basis command.
+  debt:
+    description: debt command.
+  credit:
+    description: credit command.
