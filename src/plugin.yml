@@ -1,12 +1,5 @@
-name: bLoan
-main: bloan.plugin.bLoan
-version: Alpha 1
+name: bMiner
+version: 1.0
 author: ThatBox
+main: box.bminer.bMiner
 depend: [Vault]
-commands:
-  loan:
-    description: basis command.
-  debt:
-    description: debt command.
-  credit:
-    description: credit command.
