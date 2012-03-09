@@ -1,5 +1,11 @@
-name: bMiner
-version: 1.0
-author: ThatBox
-main: box.bminer.bMiner
+name: jMiner
+version: 1.1
+author: MeneXia
+previous author: ThatBox
+main: menexia.jminer.jMiner
 depend: [Vault]
+commands:
+    jminer:
+        description: Enables or disables notifications.
+        usage: <command>
+        aliases: [jm]
